@@ -6,7 +6,7 @@
     "dist/images/spritesheet.png"
   ],
   "version": "0.0.3",
-  "homepage": "https://github.com/manleyjster/Leaflet.Illustrate",
+  "homepage": "https://github.com/gautiermichelin/Leaflet.Illustrate",
   "authors": [
     "Justin Manley"
   ],
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/manleyjster/Leaflet.Illustrate.git"
+    "url": "https://github.com/gautiermichelin/Leaflet.Illustrate.git"
   },
   "dependencies": {
     "leaflet-draw": "~2.3.0"
