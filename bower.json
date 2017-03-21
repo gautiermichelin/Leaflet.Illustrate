@@ -5,10 +5,11 @@
     "dist/Leaflet.Illustrate.css",
     "dist/images/spritesheet.png"
   ],
-  "version": "0.0.3",
+  "version": "0.1",
   "homepage": "https://github.com/gautiermichelin/Leaflet.Illustrate",
   "authors": [
-    "Justin Manley"
+    "Justin Manley",
+    "Gautier Michelin"
   ],
   "description": "Rich annotation plugin for Leaflet.",
   "license": "MIT",
